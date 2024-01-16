@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\slyt program\slyt program\bin\Debug\slyt program.exe.config
+C:\Users\User\source\repos\slyt program\slyt program\bin\Debug\slyt program.exe
+C:\Users\User\source\repos\slyt program\slyt program\bin\Debug\slyt program.pdb
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt program.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt program.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt_program.Form1.resources
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt_program.Properties.Resources.resources
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt program.csproj.GenerateResource.cache
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt program.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt program.exe
+C:\Users\User\source\repos\slyt program\slyt program\obj\Debug\slyt program.pdb
